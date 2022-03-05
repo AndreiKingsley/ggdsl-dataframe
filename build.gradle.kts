@@ -18,6 +18,7 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib"))
     implementation("com.github.AndreiKingsley:ggdsl:0.1.2-dev-1.8-feature-1.1")
+    implementation("com.github.AndreiKingsley:ggdsl-echarts:0.1.2-dev-1.8-animation-1.3")
     implementation("org.jetbrains.kotlinx:dataframe:0.8.0-rc-5")
 }
 
